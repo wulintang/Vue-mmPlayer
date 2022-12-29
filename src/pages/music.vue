@@ -92,7 +92,51 @@
         <volume :volume="volume" @volumeChange="volumeChange" />
       </div>
     </div>
-    <div class="miao" style="margin:0 auto"><a target="_blank" rel="nofollow" href="https://www.wulintang.xin/new/202107081.shtml"><img border="0" src="https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/yun/yun.png" style="height:20px!important;vertical-align:middle;padding-right:5px"></a><a href="https://www.wulintang.cn/" target="_blank"><i class="iconfont icon-cccccccccc c"></i>南通伍林堂文化传播有限公司</a> <a href="https://www.wulintang.cn/new/201705051860.shtml" target="_blank">版权所有</a>、<a href="http://beian.miit.gov.cn/" target="_blank">苏ICP备2021008246号-22</a>、<a target="_blank" rel="nofollow" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32061202001197">苏公网安备32061202001197号</a>、本站由 <a target="_blank" rel="nofollow" href="http://www.ccwadj.cn/">云之道数据</a> 提供云计算服务、<a target="_blank" title="51la网站统计" href="https://v6.51.la/land/Jfa8Ts6TayKRP5Ci"><img src="https://sdk.51.la/icon/1-4.png"></a></div>
+    <div class="miao" style="margin: 0 auto">
+      <a
+        target="_blank"
+        rel="nofollow"
+        href="https://www.wulintang.xin/new/202107081.shtml"
+        ><img
+          border="0"
+          src="https://www.abcdefghijklmnopqrstuvwxyzzyxwvutsrqponmlkjihgfedcba.cn/yun/yun.png"
+          style="
+            height: 20px !important;
+            vertical-align: middle;
+            padding-right: 5px;
+          " /></a
+      ><a
+href="https://www.wulintang.cn/"
+target="_blank"
+        ><i class="iconfont icon-cccccccccc c"></i>南通伍林堂文化传播有限公司</a
+      >
+      <a
+href="https://www.wulintang.cn/new/201705051860.shtml"
+target="_blank"
+        >版权所有</a
+      >、<a
+href="http://beian.miit.gov.cn/"
+target="_blank"
+        >苏ICP备2021008246号-22</a
+      >、<a
+        target="_blank"
+        rel="nofollow"
+        href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32061202001197"
+        >苏公网安备32061202001197号</a
+      >、本站由
+      <a
+target="_blank"
+rel="nofollow"
+href="http://www.ccwadj.cn/"
+        >云之道数据</a
+      >
+      提供云计算服务、<a
+        target="_blank"
+        title="51la网站统计"
+        href="https://v6.51.la/land/Jfa8Ts6TayKRP5Ci"
+        ><img src="https://sdk.51.la/icon/1-4.png"
+      /></a>
+    </div>
     <!--遮罩-->
     <div class="mmPlayer-bg" :style="{ backgroundImage: picUrl }"></div>
     <div class="mmPlayer-mask"></div>

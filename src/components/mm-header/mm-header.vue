@@ -3,7 +3,7 @@
   <header class="mm-header">
     <h1 class="header">
       <a href="/" target="_blank">
-        <img src="/img/logo.png" alt="云道乐-道教音乐-中国道教音乐网"/>
+        <img src="/img/logo.png" alt="云道乐-道教音乐-中国道教音乐网" />
       </a>
       <img
         v-if="visitorBadge"

@@ -12,6 +12,7 @@ module.exports = {
     'plugin:prettier/recommended'
   ],
   rules: {
+      "prettier/prettier": "off",
     'vue/multi-word-component-names': 'off',
     'vue/max-attributes-per-line': [
       'error',

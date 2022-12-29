@@ -50,10 +50,12 @@ export default {
     let titleTime
     document.addEventListener('visibilitychange', function () {
       if (document.hidden) {
-        document.title = '别走开，请回来！-云道乐-道教音乐-华夏道乐-道教音律,道教词谱,道教乐谱下载，道教音乐在线试听'
+        document.title =
+          '别走开，请回来！-云道乐-道教音乐-华夏道乐-道教音律,道教词谱,道教乐谱下载，道教音乐在线试听'
         clearTimeout(titleTime)
       } else {
-        document.title = '欢迎回来！-云道乐-道教音乐-华夏道乐-道教音律,道教词谱,道教乐谱下载，道教音乐在线试听'
+        document.title =
+          '欢迎回来！-云道乐-道教音乐-华夏道乐-道教音律,道教词谱,道教乐谱下载，道教音乐在线试听'
         titleTime = setTimeout(function () {
           document.title = OriginTitile
         }, 2000)
