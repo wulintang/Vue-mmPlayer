@@ -156,29 +156,15 @@
         }
       })()
     </script>
-    <% if ( NODE_ENV === 'production' ) { %>
-    <script>
-      var _hmt = _hmt || []
-      window._hmt = _hmt
-      ;(function () {
-        var hm = document.createElement('script')
-        hm.src = 'https://hm.baidu.com/hm.js?71e62b6d09afa9deac7bfa5c60ad06dd'
-        var s = document.getElementsByTagName('script')[0]
-        s.parentNode.insertBefore(hm, s)
-      })()
-    </script>
-    <% } %>
   </head>
   <body>
     <noscript>
-      mmPlayer 在线音乐播放器<br />为了更好的体验请开启 script
+      云道乐：为了更好的体验请开启 script
     </noscript>
     <div id="appLoading">
       <div class="loader"></div>
     </div>
     <div id="mmPlayer">
-      mmPlayer
-      是由茂茂开源的一款在线音乐播放器，具有音乐搜索、播放、歌词显示、播放历史、查看歌曲评论、网易云用户歌单播放同步等功能
     </div>
     <!-- built files will be auto injected -->
   </body>
