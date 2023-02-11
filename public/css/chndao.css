@@ -1,4 +1,4 @@
-@font-face {font-family:chndao;src:url(/ttf/chndao.ttf) format('truetype')}
+@font-face {font-family:chndao;src:url(https://www.daoyue.org.cn/ttf/chndao.ttf) format('truetype')}
 .icon {font-family:chndao!important;font-size:24px!important;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 .icon-hantaoisms:before {content:"\e60b"}
 .icon-taijitubiao:before {content:"\e60d"}
