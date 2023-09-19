@@ -99,7 +99,7 @@
         href="https://www.wulintang.xin/new/202107081.shtml"
         ><img
           border="0"
-          src="https://cdn.jsdelivr.net/gh/wulintang/cdn/yun/yun.png"
+          src="https://cdn.wulintang.cn/yun/yun.png"
           style="
             height: 20px !important;
             vertical-align: middle;
